@@ -3,7 +3,9 @@ MeoGayBot 🐱💬
 Một Discord Bot kinh tế (Economy) và giải trí đa năng, hỗ trợ tối ưu hóa tương tác cho server của bạn.
 
 📌 Links & Support / Liên kết & Hỗ trợ
+
 🔗 Support Server: https://discord.gg/pYeFwHahvU
+
 📜 Terms of Service: wait there
 
 Giới thiệu

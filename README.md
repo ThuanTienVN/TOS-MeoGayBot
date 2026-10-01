@@ -6,7 +6,7 @@ Một Discord Bot kinh tế (Economy) và giải trí đa năng, hỗ trợ tố
 
 🔗 Support Server: https://discord.gg/pYeFwHahvU
 
-📜 Terms of Service: wait there
+📜 Terms of Service: [wait there](https://tosmeogaybot.vercel.app/)
 
 Giới thiệu
 MeoGayBot là bot Discord tập trung vào hệ thống kinh tế ảo, giải trí và quản lý tương tác trong máy chủ. Bot cung cấp các tính năng cày xu, làm việc, tham gia mini-games và giao dịch giữa các thành viên.
